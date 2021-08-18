@@ -43,9 +43,9 @@ We would like you to develop a Magic Quadrant designer, in which users can devel
 **Colors and Dimensions**
 
  1. All paddings, margins and border radius values should be similar to the video.
- 2. Chart Area : 200px;
-	 - width: 200px
-	 - height: 200px
+ 2. Chart Area : 400px;
+	 - width: 400px
+	 - height: 400px
 	 - border: 2px DARK_GREY
  3. Point on Chart
 	 - width: 15px
