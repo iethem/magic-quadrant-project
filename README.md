@@ -13,8 +13,9 @@ We would like you to develop a Magic Quadrant designer, in which users can devel
 1. Develop a React app using Typescript.
 2. Use `npx create-react-app my-app --template typescript` to create project.
 3. Do not use any other library except your favorite CSS-in-js library.
-4. Upload your source code to Github or Bitbucket publicly. (It should be clonable and can be runnable by `yarn start` or `npm run start` commands.)
-5. Build your code and upload it somewhere publicly accessible to test.
+4. Do not use CSS or SCSS!.
+5. Upload your source code to Github or Bitbucket publicly. (It should be clonable and can be runnable by `yarn start` or `npm run start` commands.)
+6. Build your code and upload it somewhere publicly accessible to test.
 
 **Requirements**
 
@@ -30,6 +31,7 @@ We would like you to develop a Magic Quadrant designer, in which users can devel
  7. Users should be able to change the x and the y value of an item by dragging the item.
  8. Chart and Table should be in sync.
  9. Items should be preserved when the page is refreshed. (Store locally in the browser)
+ 10. Table should be updated while dragging the dot.
 
 **Colors Codes**
 |Name | Code|
